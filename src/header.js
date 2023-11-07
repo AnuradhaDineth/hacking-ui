@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
   return (
-    <header class="header sticky top-0 bg-white shadow-md flex items-center justify-between px-8 py-02 h-15 bg-opacity-0 flex justify-around">
+    <header class="header sticky top-0 bg-white shadow-md flex items-center px-8 py-02 h-15 bg-opacity-0 justify-around">
         {/* <!-- logo --> */}
         <h1 class="w-48">
             <img src="https://hacking.lk/wp-content/uploads/2023/02/croped-Hacking-LK-White-Text-Horizontal-300x80.png" alt="#" />
